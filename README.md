@@ -97,5 +97,18 @@ public class CompanyStructure {
 
 ## Output
 ```
+1 Satya Nadella has 0 successful check ins and is managing: 
+    2 Kasey has 0 successful check ins
+    3 Breana has 0 successful check ins
+    4 Eric has 0 successful check ins
 
+5 Bill Gates has 0 successful check ins and is managing: 
+    6 Winter has 0 successful check ins
+    7 Libby has 0 successful check ins
+    8 Gizan has 0 successful check ins
+    9 Zaynah has 0 successful check ins
+
+10 Amy Hood with a budget of 110000.00 and is managing: 
+    11 Niky with a budget of 247500.0 is supporting 1 Satya Nadella
+    12 Andrew with a budget of 330000.0 is supporting 5 Bill Gates
 ```
